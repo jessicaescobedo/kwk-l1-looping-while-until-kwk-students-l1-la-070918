@@ -4,7 +4,9 @@ def using_while
   	puts "Wingardium Leviosa"
   	levitation_force += 1 
   	puts "The levitation force is now at #{levitation_force}"
+  	break
   	end
   	puts "Your feather is a flyin!".upcase
+  	break
 end
 using_while
