@@ -7,6 +7,5 @@ def using_while
   	break
   	end
   	puts "Your feather is a flyin!".upcase
-  	break
 end
 using_while
